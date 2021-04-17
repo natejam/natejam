@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @natejam
 - 👀 I’m interested in many different languages
 - 🌱 I’m currently learning Java in college
-- 💞️ I’m looking to collaborate on idk
 - 📫 How to reach me natejam123@gmail.com 
