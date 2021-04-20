@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @natejam
 - 👀 I’m interested in many different languages
-- 🌱 I’m currently learning Java in college
+- 🌱 I’m currently learning programming in college
 - 📫 How to reach me natejam123@gmail.com 
